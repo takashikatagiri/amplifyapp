@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          git push origin master
+          mogeo39dr
         </p>
         <a
           className="App-link"
